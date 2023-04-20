@@ -1,0 +1,14 @@
+:root { 
+  --pink: #e83e8c;
+  --info: #17A2B8;
+}
+
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+.bg-pink{
+  background: var(--pink);
+}
+.bcg-info{
+  background: var(--info);
+}
